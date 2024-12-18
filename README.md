@@ -4,11 +4,10 @@ Project page of the paper: "Event-based Photometric Bundle Adjustment"
 Official repository for [**Event-based Photometric Bundle Adjustment**](), by [Shuang Guo](https://shuang1997.github.io) and [Guillermo Gallego](https://sites.google.com/view/guillermogallego).
 <h2 align="left">
 
-[PDF]() | [Video]() | [Dataset](https://github.com/tub-rip/ECRot) 
+[PDF]() | [Video](https://youtu.be/v4DhU-N6o6s) | [Dataset](https://github.com/tub-rip/ECRot) 
 </h2>
 
-<!-- [![Event-based Photometric Bundle Adjustment](docs/img/video_cover.jpg)](https://youtu.be/69dvoqSKCYg) -->
-
+[![Event-based Photometric Bundle Adjustment](docs/img/video_cover.jpg)](https://youtu.be/v4DhU-N6o6s)
 
 ## Citation
 
