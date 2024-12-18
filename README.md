@@ -1,4 +1,4 @@
-# Coming soon... EPBA: Event-based Photometric Bundle Adjustment
+# EPBA: Event-based Photometric Bundle Adjustment
 Official repository for [**Event-based Photometric Bundle Adjustment**](), by [Shuang Guo](https://shuang1997.github.io) and [Guillermo Gallego](https://sites.google.com/view/guillermogallego).
 <h2 align="left">
 
@@ -20,7 +20,8 @@ If you use this work in your research, please cite it as follows:
 }
 ```
 
--------
+# Code coming soon... 
+<!-- ------- -->
 ## Setup
 
 ### High-level Input-Output
