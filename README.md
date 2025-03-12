@@ -1,5 +1,5 @@
 # EPBA: Event-based Photometric Bundle Adjustment
-Official repository for [**Event-based Photometric Bundle Adjustment**](https://arxiv.org/abs/2412.14111), by [Shuang Guo](https://shuang1997.github.io) and [Guillermo Gallego](https://sites.google.com/view/guillermogallego).
+Official repository for [**Event-based Photometric Bundle Adjustment**](https://arxiv.org/abs/2412.14111), by [Shuang Guo](https://shuang1997.github.io) and [Guillermo Gallego](http://www.guillermogallego.es).
 <h2 align="left">
 
 [PDF](https://arxiv.org/pdf/2412.14111) | [Video](https://youtu.be/v4DhU-N6o6s) | [Dataset](https://github.com/tub-rip/ECRot) 
@@ -53,4 +53,12 @@ This code leverages the following repository for computing the derivative of Lie
 
 ## Additional Resources
 
-* [CMax-SLAM](https://github.com/tub-rip/cmax_slam)
+
+* [Research page (TU Berlin RIP lab)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
+* [Course at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision)
+* [CMax-SLAM (TRO 2024)](https://github.com/tub-rip/cmax_slam)
+* [EMBA: Event-based Mosaicing Bundle Adjustment (ECCV 2024)](https://github.com/tub-rip/emba)
+* [Secrets of Event-Based Optical Flow (TPAMI 2024)](https://github.com/tub-rip/event_based_optical_flow)
+* [ES-PTAM: Event-based Stereo Parallel Tracking and Mapping](https://github.com/tub-rip/ES-PTAM)
+* [Survey paper](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)
+* [List of Resources](https://github.com/uzh-rpg/event-based_vision_resources)
