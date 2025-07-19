@@ -1,5 +1,5 @@
 # EPBA: Event-based Photometric Bundle Adjustment
-Official repository for [**Event-based Photometric Bundle Adjustment**](https://arxiv.org/abs/2412.14111), by [Shuang Guo](https://shuang1997.github.io) and [Guillermo Gallego](http://www.guillermogallego.es).
+Official repository for [**Event-based Photometric Bundle Adjustment**](https://doi.org/10.1109/TPAMI.2025.3586497), by [Shuang Guo](https://shuang1997.github.io) and [Guillermo Gallego](http://www.guillermogallego.es).
 <h2 align="left">
 
 [PDF](https://arxiv.org/pdf/2412.14111) | [Video](https://youtu.be/v4DhU-N6o6s) | [Dataset](https://github.com/tub-rip/ECRot) 
@@ -12,11 +12,12 @@ Official repository for [**Event-based Photometric Bundle Adjustment**](https://
 If you use this work in your research, please cite it as follows:
 
 ```bibtex
-@Article{Guo24epba,
+@Article{Guo25tpmai,
   author        = {Shuang Guo and Guillermo Gallego},
   title         = {Event-based Photometric Bundle Adjustment},
-  journal       = {(under review)},
-  year          = 2024
+  journal       = {IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI)},
+  year          = 2025,
+  doi           = {10.1109/TPAMI.2025.3586497}
 }
 ```
 
