@@ -12,7 +12,7 @@ Official repository for [**Event-based Photometric Bundle Adjustment**](https://
 If you use this work in your research, please cite it as follows:
 
 ```bibtex
-@Article{Guo25tpmai,
+@Article{Guo25tpami,
   author        = {Shuang Guo and Guillermo Gallego},
   title         = {Event-based Photometric Bundle Adjustment},
   journal       = {IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI)},
